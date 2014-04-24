@@ -40,7 +40,7 @@ html {
 /*.header .menu-header-container ul{float: left;padding: 0;list-style: none;}*/
 /*.header .menu-header-container ul li{float: left;}*/
 
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {*/
 .header .menu-header-container ul{margin-top: 15px;}
 .header .menu-header-container ul li a{font-size: 11px; display: block;color: #fff;text-transform: uppercase;padding-top: 30px ;position: relative;z-index: 10;text-decoration: none;}
 .header .menu-header-container ul li.home a{background: url(images/nav-home.png) no-repeat 20px top;}
@@ -63,7 +63,7 @@ html {
 .header .menu-header-container ul li.current-menu-item.contact a{background: url(images/nav-contact.png) no-repeat -21px top;}
 .header .menu-header-container ul li.login a{text-transform:uppercase; margin: 10px 0;background: url(images/nav-login.png) 28px 3px no-repeat;padding:2px 0 2px 60px;color: #ffffff;text-decoration: none;border-left: 1px solid #6d6e71;margin-left: 10px;}
 .header .menu-header-container ul li.login:hover a{background: url(images/nav-login.png) 28px -22px no-repeat;color: #c8531e}
-}
+/*}*/
 
 /*-- Header End Here ^_^ --*/
 
