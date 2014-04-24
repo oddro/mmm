@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>3M Mining Partner | Contact Us For More Info</title>
+	<meta name="viewport" content="width=device-width,maximum-scale=1.0" />
 	<meta name="title" content="3M Mining Partner | Contact Us For More Info" />
 	<meta name="description" content="See the detail contact for visitors, get connected with 3M mining representative, find out more about our safety equipments and mining products" />
 

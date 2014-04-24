@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>	<?php wp_title( '|', true, 'right' ); bloginfo( 'name' );?> </title>
+	<meta name="viewport" content="width=device-width,maximum-scale=1.0" />
 	<meta name="title" content="3M Mining Partner | Find Safety Equipment, Solution And Training" />
 	<meta name="description" content="3M provides mining products for mining solutions that consist of safety sign, electrical maintenance, worker and site safety products" />
 	<meta name="keywords" content="Safety equipment" />

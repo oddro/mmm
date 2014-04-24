@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>3M Mining Partner | Safety Equipment And Solution For Mining Industry</title>
+	<meta name="viewport" content="width=device-width,maximum-scale=1.0" />
 	<meta name="title" content="3M Mining Partner | Safety Equipment And Solution For Mining Industry" />
 	<meta name="description" content="See our safety and mining products from safety sign, helmet, protective coveralls, respirator, hearing and other mining equipments" />
 	<meta name="keywords" content="Safety equipment" />

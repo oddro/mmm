@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>3M Mining Partner | Safety And Mining Equipment Video</title>
+	<meta name="viewport" content="width=device-width,maximum-scale=1.0" />
 	<meta name="title" content="3M Mining Partner | Safety And Mining Equipment Video" />
 	<meta name="description" content="Find video about 3M safety and mining products, get the latest information about safety and other mining equipment related news" />
 	<meta name="keywords" content="Mining videos" />

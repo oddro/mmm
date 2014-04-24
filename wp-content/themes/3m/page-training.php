@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>3M Mining Partner | Browse All Safety Training For Miners</title>
+	<meta name="viewport" content="width=device-width,maximum-scale=1.0" />
 	<meta name="title" content="3M Mining Partner | Browse All Safety Training For Miners" />
 	<meta name="description" content="Be our customer and register to be eligible for free training from 3M, after sales of safety equipments and mining products" />
 	<meta name="keywords" content="Safety Training" />

@@ -9,6 +9,7 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,maximum-scale=1.0" />
 	<title>3M Mining Partner | Find Safety Equipment, Solution And Training</title>
 	
 	<?php wp_head();?>
