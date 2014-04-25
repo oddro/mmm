@@ -41,9 +41,9 @@ html {
 /*.header .menu-header-container ul li{float: left;}*/
 
 .header .menu-header-container ul li a{font-size: 11px; display: block;color: #fff;text-transform: uppercase;padding-top: 30px ;position: relative;z-index: 10;text-decoration: none;}
-.header .menu-header-container ul li.home a{background: url(images/btn_1.png) no-repeat center;}
+.header .menu-header-container ul li.home a{text-transform:uppercase; margin: 10px 0;background: url(images/btn_1.png) no-repeat;padding:2px 0 2px 60px;color: #ffffff;text-decoration: none;border-left: 1px solid #6d6e71;margin-left: 10px;}
 .header .menu-header-container ul li.home a:hover,
-.header .menu-header-container ul li.current-menu-item.home a{background: url(images/btn_1b.png) no-repeat center;}
+.header .menu-header-container ul li.current-menu-item.home a{background: url(images/btn_1b.png) no-repeat;color: #c8531e}
 .header .menu-header-container ul li.solution a{background: url(images/nav-solution.png) no-repeat 42px top;}
 .header .menu-header-container ul li.solution a:hover,
 .header .menu-header-container ul li.current-menu-item.solution a{background: url(images/nav-solution.png) no-repeat -37px top;}
@@ -59,6 +59,8 @@ html {
 .header .menu-header-container ul li.contact a{background: url(images/nav-contact.png) no-repeat 31px top;}
 .header .menu-header-container ul li.contact a:hover,
 .header .menu-header-container ul li.current-menu-item.contact a{background: url(images/nav-contact.png) no-repeat -21px top;}
+.header .menu-header-container ul li.login a{text-transform:uppercase; margin: 10px 0;background: url(images/nav-login.png) 28px 3px no-repeat;padding:2px 0 2px 60px;color: #ffffff;text-decoration: none;border-left: 1px solid #6d6e71;margin-left: 10px;}
+.header .menu-header-container ul li.login:hover a{background: url(images/nav-login.png) 28px -22px no-repeat;color: #c8531e}
 @media (min-width: 768px) {
 .header .menu-header-container ul{margin-top: 15px;}
 .header .menu-header-container ul li a{font-size: 11px; display: block;color: #fff;text-transform: uppercase;padding-top: 30px ;position: relative;z-index: 10;text-decoration: none;}
