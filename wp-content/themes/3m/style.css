@@ -290,6 +290,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 /*--Footer End Here ^_^--
 
 /*Hack slider*/
-.cycloneslider-template-dark .cycloneslider-slides{
-  height: 360px !important;
+
+/*** Responsive ***/
+@media (min-width: 960px) {
+  .cycloneslider-template-dark .cycloneslider-caption{
+    max-width: 100% !important;
+  }
+}
+@media (max-width: 480px) {
+  .cycloneslider-template-dark .cycloneslider-caption{
+    display: none !important;
+  }
+  .cycloneslider-template-dark .cycloneslider-slides{
+    min-height: 200px !important;
+  }
 }
