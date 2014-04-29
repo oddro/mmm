@@ -288,3 +288,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', end
 .footer .sosmed a i.fa-google-plus{color: #d34836;}
 .footer .sosmed a:hover{background: #fbb514;color: #FFF;}
 /*--Footer End Here ^_^--
+
+/*Hack slider*/
+.cycloneslider-template-dark .cycloneslider-slides{
+  height: 360px !important;
+}
